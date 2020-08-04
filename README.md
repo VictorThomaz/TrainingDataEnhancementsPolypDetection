@@ -17,3 +17,6 @@ CONCLUSION: We demonstrate that our proposed method has the potential to increas
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/UsqORUz" data-context="false" ><a href="//imgur.com/a/UsqORUz"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+
+![Second Image](http://i.imgur.com/a2CP4Em0.png)
+
