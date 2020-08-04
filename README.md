@@ -13,5 +13,5 @@ CONCLUSION: We demonstrate that our proposed method has the potential to increas
 
 ![Mask Generator](http://i.imgur.com/zTONrOD.jpg)
 
-![Second Image](http://i.imgur.com/2CP4Em0.png)
+![Second Image](http://i.imgur.com/a2CP4Em0.png)
 
