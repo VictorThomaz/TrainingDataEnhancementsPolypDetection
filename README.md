@@ -15,5 +15,5 @@ CONCLUSION: We demonstrate that our proposed method has the potential to increas
 
 //imgur.com/a/2CP4Em0
 
-![Second Image](http://imgur.com/a/2CP4Em0.png)
+![Second Image](http://i.imgur.com/a/2CP4Em0.png)
 
