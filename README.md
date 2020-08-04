@@ -13,23 +13,35 @@ CONCLUSION: We demonstrate that our proposed method has the potential to increas
 
 ## GAN NETWORK
 
-The implementation was based in the Keras Adversarial, however, using custom model architectures for the generator and discriminator networks as shown in the pictures.
+The implementation was based in the Keras Adversarial, however, using custom model architectures for the generator and discriminator networks as shown in the pictures:
+
+[Keras Adversarial!](https://github.com/bstriner/keras-adversarial/blob/master/examples/example_gan_cifar10.py)
 
 
 ##### 1.	GENERATOR ARCHITECTURE
 
+![GAN_MASK_GEN](https://github.com/VictorThomaz/TrainingDataEnhancementsPolypDetection/blob/master/imgs/mask_generator.png)
 
+##### 2.	DISCRIMINATOR ARCHITECTURE
 
-![Second Image](https://github.com/VictorThomaz/TrainingDataEnhancementsPolypDetection/blob/master/imgs/CGAN_discriminator.png)
+![GAN_MASK_DISC](https://github.com/VictorThomaz/TrainingDataEnhancementsPolypDetection/blob/master/imgs/mask_discriminator.png)
+
 
 
 ## CONDITIONAL GAN NETWORK
 
+The implementation was based in the vess2ret 2, however, using custom model architectures for the generator and discriminator networks as shown in the pictures:
+
+[Towards Adversarial Retinal Image Synthesis!](https://github.com/costapt/vess2ret) 
 
 
+##### 1.	GENERATOR ARCHITECTURE
 
+![GAN_MASK_GEN](https://github.com/VictorThomaz/TrainingDataEnhancementsPolypDetection/blob/master/imgs/CGAN_g_unet_05_generator.png)
 
+##### 2.	DISCRIMINATOR ARCHITECTURE
 
+![GAN_MASK_GEN](https://github.com/VictorThomaz/TrainingDataEnhancementsPolypDetection/blob/master/imgs/CGAN_discriminator.png)
 
 
 
