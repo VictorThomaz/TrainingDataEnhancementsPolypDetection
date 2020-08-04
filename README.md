@@ -11,4 +11,5 @@ RESULTS: We applied the proposed data enhancement over a colonic polyp dataset. 
 CONCLUSION: We demonstrate that our proposed method has the potential to increase the data variability and number of samples in a reduced polyp dataset, improving the polyp detection rate and recall values. These results open new possibilities for advancing the study and implementation of new methods to improve computer-assisted medical image analysis.
 
 
-![Mask Generator](https://www.dropbox.com/s/fh3q1opmqx6w8b3/mask_generator.png)
+![Mask Generator](http://i.imgur.com/zTONrOD.jpg))
+
