@@ -13,7 +13,11 @@ CONCLUSION: We demonstrate that our proposed method has the potential to increas
 
 ## GAN NETWORK
 
-##### Texto
+The implementation was based in the Keras Adversarial, however, using custom model architectures for the generator and discriminator networks as shown in the pictures.
+
+
+##### 1.	GENERATOR ARCHITECTURE
+
 
 
 ![Second Image](https://github.com/VictorThomaz/TrainingDataEnhancementsPolypDetection/blob/master/imgs/CGAN_discriminator.png)
