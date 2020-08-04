@@ -15,7 +15,9 @@ CONCLUSION: We demonstrate that our proposed method has the potential to increas
 
 
 
-![Second Image](http://i.imgur.com/a/UsqORUz.png)
+![Second Image](https://github.com/VictorThomaz/TrainingDataEnhancementsPolypDetection/blob/master/imgs/CGAN_discriminator.png)
+
+
 
 
 
